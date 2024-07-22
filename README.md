@@ -12,6 +12,7 @@ By Using PowerBI
 
 
 # Dashboard 1: SALES ANALYSIS | AMAZON PRODUCTS
+![Screenshot 2024-07-22 145129](https://github.com/user-attachments/assets/c687833d-74eb-4aae-af31-137373eac80c)
 
 # KPIs:
 **YTD Sales:** Monitor year-to-date sales to gauge the overall revenue performance over time.
