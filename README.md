@@ -11,6 +11,7 @@ By Using PowerBI
 **Objective:** The goal of this Power BI project is to design two distinct dashboards: one dedicated to Amazon product sales analysis and the other to Amazon Prime performance. These dashboards will be equipped with key performance indicators (KPIs) and charts to enable comprehensive insights into sales, product performance, and the impact of Amazon Prime on the business.
 
 
+
 # Dashboard 1: SALES ANALYSIS | AMAZON PRODUCTS
 ![Screenshot 2024-07-22 145129](https://github.com/user-attachments/assets/c687833d-74eb-4aae-af31-137373eac80c)
 
@@ -35,7 +36,9 @@ By Using PowerBI
 **Top 5 Products by YTD Reviews (Bar Chart):** Identify the top-rated products by year-to-date reviews to understand customer preferences.
 
 
+
 # Dashboard 2: SALES ANALYSIS | AMAZON PRIME
+![Screenshot 2024-07-22 145317](https://github.com/user-attachments/assets/5f3b36f2-ad36-4293-a8d5-eed0c27ebaa6)
 
 # KPIs:
 **Total Sales:** Summarize the total sales generated through Amazon Prime services.
