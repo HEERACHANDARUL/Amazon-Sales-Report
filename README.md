@@ -1,4 +1,5 @@
-# Amazon-Sales-Report ![AmazonGIF (2)] (https://github.com/user-attachments/assets/442eb4f5-cf74-4450-bd64-576d700896aa)
+# Amazon-Sales-Report ![amazon-introduces-amazon-prime-lite-in-india-transformed](https://github.com/user-attachments/assets/ebfde70d-bbea-4e5b-8678-2716fb331d12)
+
 
 By Using PowerBI
 
