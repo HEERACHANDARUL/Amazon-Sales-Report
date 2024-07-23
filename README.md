@@ -1,4 +1,4 @@
-# Amazon-Sales-Report ![AmazonGIF (2)]("https://github.com/user-attachments/assets/442eb4f5-cf74-4450-bd64-576d700896aa" width="400">)
+# Amazon-Sales-Report ![AmazonGIF (2)] "https://github.com/user-attachments/assets/442eb4f5-cf74-4450-bd64-576d700896aa" width="400">
 
 By Using PowerBI
 
