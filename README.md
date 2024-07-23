@@ -1,4 +1,5 @@
-# Amazon-Sales-Report
+# Amazon-Sales-Report ![amz](https://github.com/user-attachments/assets/428b452e-1be9-42a5-90e9-f860c0918739)
+
 By Using PowerBI
 
 
