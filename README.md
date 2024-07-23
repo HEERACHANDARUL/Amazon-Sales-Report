@@ -1,4 +1,5 @@
-# Amazon-Sales-Report ![amazon-introduces-amazon-prime-lite-in-india-transformed](https://github.com/user-attachments/assets/ebfde70d-bbea-4e5b-8678-2716fb331d12)
+# Amazon-Sales-Report ![amazon-introduces-amazon-prime-lite-in-india-transformed](https://github.com/user-attachments/assets/a7453412-da38-47eb-91a4-30e3eaa5892f)
+
 
 
 By Using PowerBI
