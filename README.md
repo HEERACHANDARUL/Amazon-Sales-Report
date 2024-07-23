@@ -1,5 +1,4 @@
-# Amazon-Sales-Report ![Uploading AmazonGIF.gif…]()
-
+# Amazon-Sales-Report ![AmazonGIF (2)](https://github.com/user-attachments/assets/442eb4f5-cf74-4450-bd64-576d700896aa)
 
 By Using PowerBI
 
